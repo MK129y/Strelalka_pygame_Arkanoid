@@ -21,7 +21,7 @@ Purple = (221,160,221)
 pygame.init()
 pygame.mixer.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("GAME_Arkanoid")
+pygame.display.set_caption("GAME_Arkanoid_msw")
 clock = pygame.time.Clock()
 
 
